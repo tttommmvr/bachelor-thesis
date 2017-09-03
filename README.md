@@ -1,4 +1,4 @@
-# bachelor-thesis
+# Automatisatie van het regeneratieproces van CuCl2 in een etstank voor het maken van PCB's
 
 In deze repository kunnen alle bestanden gevonden worden met betrekking tot de bachelorproef van Tom van Rijn.
 
